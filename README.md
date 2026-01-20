@@ -2,7 +2,7 @@
 
 A modern, high-performance, and aesthetically pleasing website template for cafés and coffee shops. Built with a focus on "Cozy Aesthetics" and premium user experience.
 
-![Café Preview](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&q=80&w=1000)
+![Café Preview](CafeWebsite.webp)
 
 ## ✨ Features
 
